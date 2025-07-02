@@ -46,7 +46,7 @@ Check out my projects and contributions below!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphaankit079&show_icons=true&theme=radical" alt="GitHub Stats"><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaankit079&theme=radical" alt="GitHub Streak"><br><br>
+  <img src="https://streak-stats.demolab.com?user=alphaankit079&theme=radical" alt="GitHub Streak"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaankit079&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
