@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <h3 align="center">🚀 I'm a Full-Stack Developer passionate about building high-quality applications and constantly learning new technologies.</h3>
