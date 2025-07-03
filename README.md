@@ -5,7 +5,7 @@
 <h3 align="center"><b>Welcome to my GitHub profile!</b></h3>
 
 <p align="center">
-🚀 I'm a Full-Stack Developer passionate about building high-quality applications and constantly learning new technologies.<br>
+🚀 I'm a dedicated Full-Stack Developer with a strong passion for creating scalable, high-performance applications. I thrive on learning new technologies, embracing challenges, and delivering innovative, user-centric solutions that make an impact.<br>
 Check out my projects and contributions below!
 </p>
 
