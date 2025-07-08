@@ -13,6 +13,10 @@ Check out my projects and contributions below!
   <img src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif" alt="Coding GIF" width="400">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alphaankit079&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -48,6 +52,10 @@ Check out my projects and contributions below!
   <img src="https://github-readme-stats.vercel.app/api?username=alphaankit079&show_icons=true&theme=radical" alt="GitHub Stats"><br><br>
   <img src="https://streak-stats.demolab.com?user=alphaankit079&theme=radical" alt="GitHub Streak"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaankit079&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphaankit079&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
