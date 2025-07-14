@@ -31,9 +31,12 @@ Check out my projects and contributions below!
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphaankit079&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alphaankit079" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
