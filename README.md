@@ -10,8 +10,9 @@ Check out my projects and contributions below!
 </p>
 
 <p align="center">
-  <img src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif" alt="Coding GIF" width="400">
+  <img src="https://i.pinimg.com/1200x/14/92/4b/14924ba76d67385b80f156a676476dd6.jpg" alt="Coding Image" width="400">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alphaankit079&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
