@@ -5,7 +5,7 @@
 <h3 align="center"><b>Welcome to my GitHub profile!</b></h3>
 
 <p align="center">
-🚀 I'm a dedicated Full-Stack Developer with a strong passion for creating scalable, high-performance applications. I thrive on learning new technologies, embracing challenges, and delivering innovative, user-centric solutions that make an impact.<br>
+🚀 I'm a dedicated Front-End Developer with a strong passion for building responsive, high-performance web applications. I thrive on learning new technologies, crafting intuitive user interfaces, and delivering innovative, user-centric solutions that create real impact. With a keen eye for design and a love for clean, maintainable code, I focus on creating seamless digital experiences that engage and inspire.<br>
 Check out my projects and contributions below!
 </p>
 
