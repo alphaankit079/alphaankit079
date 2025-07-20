@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">👋 Hi, I'm Ankit Kumar</h1> 
+<h3 align="center">Front-End Developer | JavaScript Enthusiast | MERN Stack Explorer</h3>
+
 
 <h3 align="center"><b>Welcome to my GitHub profile!</b></h3>
 
