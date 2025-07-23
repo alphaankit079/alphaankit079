@@ -4,7 +4,7 @@
 <h3 align="center">Front-End Developer | JavaScript Enthusiast | MERN Stack Explorer</h3>
 
 
-<h3 align="center"><b>Welcome to my GitHub profile!</b></h3>
+<h3 align="center"><b>Welcome to my GitHub profile!!</b></h3>
 
 <p align="center">
 🚀 I'm a dedicated Front-End Developer with a strong passion for building responsive, high-performance web applications. I thrive on learning new technologies, crafting intuitive user interfaces, and delivering innovative, user-centric solutions that create real impact. With a keen eye for design and a love for clean, maintainable code, I focus on creating seamless digital experiences that engage and inspire.<br>
